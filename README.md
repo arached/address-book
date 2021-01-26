@@ -1,4 +1,4 @@
-## Welcome to Address Book##
+## Welcome to Address Book
 
 **Address Book** is an online API / web application that contains different users contacts information.
 
@@ -69,7 +69,7 @@ The component will return a status of success or failure.
 
 To run the server, you just have to run interface.py under /interface and the server will run locally on the port 5000
 
-## Notes to implement this solution at your machine##
+## Notes to implement this solution at your machine ##
 
 1) You should have python 3 on your machine
 2) You should install flask and mysql.connector for python
@@ -77,8 +77,8 @@ To run the server, you just have to run interface.py under /interface and the se
 4) Change the configuration in interface/config.py to match your mysql server
 5) Change the configuration in include/db.php to match your mysql server
 
-##Notes about the application##
+## Notes about the application ##
 Currently, the web application is still not fully done and still needs some modifications. Like handling validation on adding and updating a contact, and when updating a contact the form is not populated with the contact's information so you'll have to fill them manually.
 
 
-##I HOPE THAT YOU ENJOY THIS APPLICATION##
+## I HOPE THAT YOU ENJOY THIS APPLICATION ##
