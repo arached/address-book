@@ -76,7 +76,7 @@ To run the server, you just have to run interface.py under /interface and the se
 3) You should have mysql server 
 4) Change the configuration in interface/config.py to match your mysql server
 5) Change the configuration in include/db.php to match your mysql server
-
+6) Import \Database\addressbook.sql to your MySql server
 ## Notes about the application ##
 Currently, the web application is still not fully done and still needs some modifications. Like handling validation on adding and updating a contact, and when updating a contact the form is not populated with the contact's information so you'll have to fill them manually.
 
